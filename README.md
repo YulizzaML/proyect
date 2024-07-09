@@ -1,1 +1,1 @@
-# proyect
+# Este proyecto mostrará un conjunto de datos de anuncios de venta de vehículos y tipos de vehíulos, en los cuales se mostrara el modelo, fabricación en un histrograma y en un gráfico de dispersión
